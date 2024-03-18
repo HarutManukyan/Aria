@@ -1114,7 +1114,7 @@ input[value="4"]:checked ~ * [data-scene="4"] + [data-scene] {
 }
 @media only screen and (max-width: 37.5em) {
   .heading__top {
-    top: 15rem;
+    top: 13rem;
     left: 5rem;
   }
 }
