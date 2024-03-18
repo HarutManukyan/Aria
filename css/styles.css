@@ -669,6 +669,9 @@ ul {
     margin: 0 auto;
   }
 }
+.winter__left-img {
+  border-radius: 20px;
+}
 .winter__left-img--1 {
   width: 43rem;
   height: 28rem;
@@ -797,7 +800,7 @@ ul {
 @media only screen and (max-width: 37.5em) {
   .order__title {
     font-size: 4rem;
-    margin-top: 30rem;
+    margin-top: 35rem;
   }
 }
 .order__title span {
